@@ -1,4 +1,4 @@
-# Color Block Jam - Technical Case Study
+# Unity Puzzle Architecture
 
 ## Gameplay Demo
 
