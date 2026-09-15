@@ -1,12 +1,7 @@
 # Unity Puzzle Architecture
 
 ## Gameplay Demo
-
-<p align="center">
-  <a href="./gameplay-demo.mp4">
-    <strong>▶ Watch Gameplay Demo</strong>
-  </a>
-</p>
+https://github.com/user-attachments/assets/8f84d8ec-57df-42dd-a759-12d1d06eafa4
 
 Bu projede, mobil bulmaca mekaniklerini olabildiğince temiz ve geliştirilmeye açık bir kod yapısıyla birleştirmeye çalıştım. Gereksiz karmaşadan kaçınarak, sistemlerin birbiriyle uyumlu çalışması için **State Machine** ve **Singleton Pattern** yaklaşımlarını kullandım.
 
